@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="201027fa-7295-4444-824e-4daf0577c6ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21oESlVb5BnoP1eW7KYw7rgETof" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../skills" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="201027fa-7295-4444-824e-4daf0577c6ab" name="Default Changelist" comment="" />
+      <created>1638599042239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638599042239</updated>
+      <workItem from="1638599044451" duration="1746000" />
+      <workItem from="1638600835573" duration="1773000" />
+      <workItem from="1638602644857" duration="840000" />
+      <workItem from="1638605253613" duration="3007000" />
+      <workItem from="1638608348129" duration="935000" />
+      <workItem from="1638781587733" duration="740000" />
+      <workItem from="1638784345674" duration="595000" />
+      <workItem from="1638786156063" duration="594000" />
+      <workItem from="1638787963715" duration="595000" />
+      <workItem from="1638834146727" duration="595000" />
+      <workItem from="1638836775615" duration="593000" />
+      <workItem from="1638859355513" duration="594000" />
+      <workItem from="1639211525266" duration="878000" />
+      <workItem from="1639260967839" duration="1733000" />
+      <workItem from="1639388814072" duration="594000" />
+      <workItem from="1639390791801" duration="595000" />
+      <workItem from="1639528769319" duration="595000" />
+      <workItem from="1639634397219" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
